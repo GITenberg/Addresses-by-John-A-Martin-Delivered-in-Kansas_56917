@@ -8,6 +8,9 @@ contributor:
     deathdate: 1911
     gutenberg_agent_id: '47546'
     url: http://www.gutenberg.org/2009/agents/47546
+covers:
+- cover_type: archival
+  image_path: 56917-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, John Alexander
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46487'
     url: http://www.gutenberg.org/2009/agents/46487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56917#Addresses-by-John-A-Martin-Delivered-in-Kansas
 gutenberg_issued: '2018-04-04'
 gutenberg_type: Text
 identifiers:
